@@ -1,0 +1,48 @@
+{
+  "name": "anonymous",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^1.3.6",
+    "@hookform/resolvers": "^5.0.1",
+    "@radix-ui/react-label": "^2.1.2",
+    "@radix-ui/react-slot": "^1.1.2",
+    "@react-email/components": "^0.0.34",
+    "axios": "^1.8.4",
+    "bcryptjs": "^3.0.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.487.0",
+    "mongoose": "^8.12.1",
+    "next": "15.2.1",
+    "next-auth": "^4.24.11",
+    "next-themes": "^0.4.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-email": "^3.0.7",
+    "react-hook-form": "^7.55.0",
+    "resend": "^4.1.2",
+    "sonner": "^2.0.3",
+    "tailwind-merge": "^3.1.0",
+    "tw-animate-css": "^1.2.5",
+    "usehooks-ts": "^3.1.1",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20.17.28",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.1",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
